@@ -1,2 +1,2 @@
 # encouragement_bot
-cheer people up
+To cheer people up :D
